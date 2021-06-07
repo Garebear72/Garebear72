@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Garebear72
+- 👀 I’m interested in Web Development and General Programming!
+- 🌱 I’m currently learning more and more every single day about how to achieve my goals and become a professional developer.
+- 💞️ I’m looking to collaborate on anything and everything to grow my skillset.
+- 📫 You can reach me by sending me a message here, or emailing me at garrettgame@hotmail.com.
