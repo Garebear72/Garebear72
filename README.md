@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Garebear72
-- 👀 I’m interested in Web Development and General Programming!
-- 🌱 I’m currently learning more and more every single day about how to achieve my goals and become a professional developer.
+- 👀 I’m interested in Web Development, App Development, and Video Game Design.
+- 🌱 I’m currently striving to learn more and more from the vast amount of knowledge out there when it comes to best practices and general development. Every week you'll find my tackling something new -- from getting to know something new in a random game engine, bouncing between Vue, React, and Angular to see which one will work for me better this time, or even just reading a book on how Assembly came to be.
 - 💞️ I’m looking to collaborate on anything and everything to grow my skillset.
 - 📫 You can reach me by sending me a message here, or emailing me at garrettgame@hotmail.com.
